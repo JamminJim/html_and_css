@@ -1,0 +1,27 @@
+
+[pg 9] How the Web Works.
+    1.) Your computer is connected to the web through a internet provider.
+    2.) You type a domain or web address into your browser.
+    3.) You commute connects to a network of servers called Domain Name System (DNS).
+    4.) These servers tell you the ip associated with the web address.
+    5.) Your browser uses this ip to connect to the web server at that address.
+    6.) The web server then sends the page request back to your browser.
+
+[pg 20] HTML describes the "Structure" of pages.
+    Angled Brackets are called HTML "elements".
+    These elments are usually are made up of two tags <>(opening tag) and </> (closing tag).
+    Tags act like containers and tell the browser something about what lies between them.
+
+[pg 25] Attributes tell us more about elements
+    They appear in the opening tag of the element.
+    They are made up of two parts: a "name" and a "value".
+
+[pg 26] Body, Head & Title
+    Body - Everything within the body is show in the main browser window
+    Head - Contains information about the page.
+    Title - Displays at the top of the browser, in the tab.
+
+* HyperText Markup Language allows you to annotate text. These annotations provide meaning to the context of the document.
+  The browser uses this code to diplay the page correctly
+
+
